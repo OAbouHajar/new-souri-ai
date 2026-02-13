@@ -1,0 +1,9 @@
+# Source: Ministry of Economy and Industry
+# Category: Economy
+# Date: 2025-09-29
+# Link: https://t.me/SyMOEAI/3007
+
+المؤسسة العامة للحبوب: خطوات منتظمة لتعزيز الأمن الغذائي وتأمين القمح الاستراتيجي
+[**#الجمهورية_العربية_السورية**](https://www.facebook.com/hashtag/%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9?__cft__[0]=AZWaMEQ4w-0pTTV4ovfU7KE7cypyEUaCFVfCwCjIqlAKCyWoMCfD7LiEsaruFwvHgngFSBy8rmzzSkYGPxb-kMX0t_hIGanfJr-1RB_B0okNjlUxfYT3JYE0dXtCqbmvz4huV-mOXLqej1W43oPIqUOF4GHVKqyGXWF8L7-QvmzaYznAGoQHyfJiPiQeE5PR90hiv6JfGJYzNpCzzNVOASHL&__tn__=*NK-R) 
+[**#وزارة_الاقتصاد_والصناعة**](https://www.facebook.com/hashtag/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D9%88%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9?__cft__[0]=AZWaMEQ4w-0pTTV4ovfU7KE7cypyEUaCFVfCwCjIqlAKCyWoMCfD7LiEsaruFwvHgngFSBy8rmzzSkYGPxb-kMX0t_hIGanfJr-1RB_B0okNjlUxfYT3JYE0dXtCqbmvz4huV-mOXLqej1W43oPIqUOF4GHVKqyGXWF8L7-QvmzaYznAGoQHyfJiPiQeE5PR90hiv6JfGJYzNpCzzNVOASHL&__tn__=*NK-R)
+[**#الإدارة_العامة_للتجارة_الداخلية_وحماية_المستهلك**](https://www.facebook.com/hashtag/%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9_%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9_%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83?__cft__[0]=AZWaMEQ4w-0pTTV4ovfU7KE7cypyEUaCFVfCwCjIqlAKCyWoMCfD7LiEsaruFwvHgngFSBy8rmzzSkYGPxb-kMX0t_hIGanfJr-1RB_B0okNjlUxfYT3JYE0dXtCqbmvz4huV-mOXLqej1W43oPIqUOF4GHVKqyGXWF8L7-QvmzaYznAGoQHyfJiPiQeE5PR90hiv6JfGJYzNpCzzNVOASHL&__tn__=*NK-R)

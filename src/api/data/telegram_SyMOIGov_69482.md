@@ -1,0 +1,13 @@
+# Source: Ministry of Information
+# Category: Media
+# Date: 2025-11-25
+# Link: https://t.me/SyMOIGov/69482
+
+اجتمعت إدارة إعلام المحافظات مع مديري الإعلام، حيث تم مناقشة واقع العمل وسبل الارتقاء بالأداء بما ينسجم مع متطلبات المرحلة الحالية.
+
+#الجمهورية_العربية_السورية
+#وزارة_الإعلام
+
+للمشاهدة على يوتيوب:
+
+https://youtube.com/shorts/759kT0YeLOM?si=FgrywbPel20gmYF1

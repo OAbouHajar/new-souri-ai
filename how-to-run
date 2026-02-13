@@ -1,0 +1,5 @@
+cd /Users/oabouhajar/projects/new-souri-ai/get-started-with-ai-chat/src && python -m uvicorn "api.main:create_app" --factory --reload
+
+cd /Users/oabouhajar/projects/new-souri-ai/get-started-with-ai-chat/src/frontend && pnpm run setup
+
+source .venv/bin/activate

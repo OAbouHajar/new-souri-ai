@@ -1,0 +1,15 @@
+# Source: Ministry of Economy and Industry
+# Category: Economy
+# Date: 2025-12-25
+# Link: https://t.me/SyMOEAI/3624
+
+التجارة الداخلية تبدأ ترميم وتأهيل المسالخ في ريف حلب الشمالي.
+
+
+#الجمهورية_العربية_السورية 
+#وزارة_الاقتصاد_والصناعة
+#الإدارة_العامة_للتجارة_الداخلية_وحماية_المستهلك
+
+للمشاهدة على اليوتيوب:
+
+https://youtube.com/shorts/XLWDw_pHEqE?si=NZaW6vmYDiaVjKFC

@@ -1,0 +1,9 @@
+# Source: General Secretariat of the Presidency – Council of Ministers Affairs
+# Category: Government
+# Date: 2025-08-21
+# Link: https://t.me/SyGSOTPOTSARCA/6460
+
+بمشاركة الأمانة العامة لرئاسة الجمهورية، وزارة النقل تُكرّم المشاركين في ورشة "الإطار التنظيمي للعمل الحكومي"
+[**#الجمهورية_العربية_السورية**](https://www.facebook.com/hashtag/%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9?__eep__=6&__cft__[0]=AZVR87yNannhCH2gn1vNPXXIwzoP0rGhTTMB9q627PpVyfiaWAqjBwTDAwPmFsijRVViMx-3d0st3ZD_3S90kBHAxj92eq7e2egTtqwt1cGNKOclMbXhAMC8tUrKMbR27itKdVZutZiCgvyQqzNRfklWPfAG_IjZpGFF0fDMKHtXhU1K_vgkCA7sZmUPdhgbX9bVvqC5nXok0BMC6TJWV6u_&__tn__=*NK-R)
+[**#الأمانة_العامة_لرئاسة_الجمهورية**](https://www.facebook.com/hashtag/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9_%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9?__eep__=6&__cft__[0]=AZVR87yNannhCH2gn1vNPXXIwzoP0rGhTTMB9q627PpVyfiaWAqjBwTDAwPmFsijRVViMx-3d0st3ZD_3S90kBHAxj92eq7e2egTtqwt1cGNKOclMbXhAMC8tUrKMbR27itKdVZutZiCgvyQqzNRfklWPfAG_IjZpGFF0fDMKHtXhU1K_vgkCA7sZmUPdhgbX9bVvqC5nXok0BMC6TJWV6u_&__tn__=*NK-R)
+[**#شؤون_مجلس_الوزراء**](https://www.facebook.com/hashtag/%D8%B4%D8%A4%D9%88%D9%86_%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1?__eep__=6&__cft__[0]=AZVR87yNannhCH2gn1vNPXXIwzoP0rGhTTMB9q627PpVyfiaWAqjBwTDAwPmFsijRVViMx-3d0st3ZD_3S90kBHAxj92eq7e2egTtqwt1cGNKOclMbXhAMC8tUrKMbR27itKdVZutZiCgvyQqzNRfklWPfAG_IjZpGFF0fDMKHtXhU1K_vgkCA7sZmUPdhgbX9bVvqC5nXok0BMC6TJWV6u_&__tn__=*NK-R)

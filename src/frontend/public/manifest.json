@@ -1,0 +1,22 @@
+{
+  "short_name": "Souri AI",
+  "name": "Souri AI - Fahim Syria",
+  "icons": [
+    {
+      "src": "/static/react/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/react/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#173728",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#173728",
+  "description": "وكيل ذكاء اصطناعي سوري - Souri AI"
+}

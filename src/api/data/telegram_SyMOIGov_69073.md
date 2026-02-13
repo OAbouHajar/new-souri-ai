@@ -1,0 +1,13 @@
+# Source: Ministry of Information
+# Category: Media
+# Date: 2025-09-27
+# Link: https://t.me/SyMOIGov/69073
+
+الحكاية السورية التي أوجزها السيد الرئيس في خطابه أمام الجمعية العامة.. حكاية صمود وانتصار وأمل بمستقبل مزدهر.
+
+#الجمهورية_العربية_السورية 
+#وزارة_الإعلام
+
+للمشاهدة على يوتيوب:
+
+https://youtu.be/BN_c60OFvZo?si=PuqT2orkm0Gwgi7v

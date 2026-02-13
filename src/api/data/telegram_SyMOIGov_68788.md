@@ -1,0 +1,17 @@
+# Source: Ministry of Information
+# Category: Media
+# Date: 2025-08-27
+# Link: https://t.me/SyMOIGov/68788
+
+معرض دمشق الدولي بحلته الجديدة...
+
+الدورة 62 لمعرض دمشق الدولي
+27 آب – 5 أيلول 2025
+
+#الجمهورية_العربية_السورية
+#وزارة_الإعلام
+#معرض_دمشق_الدولي
+#سوريا_تستقبل_العالم
+
+للمشاهدة عبر يوتيوب:
+https://youtube.com/shorts/OqjKrA4oLNg?si=0NcEDs4daPPBskh2

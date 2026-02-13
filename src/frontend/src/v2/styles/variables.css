@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+:root {
+  /* Mandatory Color Tokens */
+  --v2-green-900: #205644;   /* header, primary */
+  --v2-green-700: #1F6F54;   /* buttons */
+  --v2-green-100: #D9F2E6;   /* assistant messages */
+
+  --v2-beige-100: #F6F3EC;   /* page background */
+  --v2-beige-200: #EEE7DA;   /* cards, input background */
+  --v2-beige-300: #E2D6C3;   /* borders */
+
+  --v2-gold-500:  #D6B26E;   /* primary gold accent */
+  --v2-gold-300:  #e8ba4f;   /* soft gold background */
+
+  --v2-text-primary: #1C1C1C;
+  --v2-text-muted: #6B6B6B;
+  --v2-user-bubble: #FFFFFF;
+
+  /* Typography */
+  --v2-font-family: 'Tajawal', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Hard Reset for v2 container */
+[data-v2-root] {
+  direction: rtl;
+  font-family: var(--v2-font-family);
+  background-color: var(--v2-beige-100);
+  color: var(--v2-text-primary);
+  line-height: 1.6;
+  font-size: 16px;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+[data-v2-root] *, [data-v2-root] *::before, [data-v2-root] *::after {
+  box-sizing: inherit;
+}
+
+[data-v2-root] button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+[data-v2-root] input, 
+[data-v2-root] textarea {
+  font-family: inherit;
+}
+
+/* Markdown Specific Styles for Gold Accents (Authority) */
+[data-v2-root] .markdown-content ol {
+  list-style: none; /* Hide default numbers to customize */
+  counter-reset: step-counter;
+  padding-right: 20px; /* Arabic RTL */
+}
+
+[data-v2-root] .markdown-content ol li {
+  position: relative;
+  counter-increment: step-counter;
+  margin-bottom: 12px;
+  padding-right: 32px; /* Space for the badge */
+}
+
+/* A) Step numbers in instructional content - Small rounded badge */
+[data-v2-root] .markdown-content ol li::before {
+  content: counter(step-counter);
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: var(--v2-gold-500);
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+/* B) Important notes or sources (using Blockquote) */
+[data-v2-root] .markdown-content blockquote {
+  margin: 16px 0;
+  padding: 8px 16px;
+  background-color: transparent;
+  border-right: 4px solid var(--v2-gold-500); /* Right border in gold */
+  color: var(--v2-text-muted);
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+/* C) Dividers */
+[data-v2-root] .markdown-content hr {
+  border: none;
+  border-top: 1px solid var(--v2-gold-500);
+  opacity: 0.4;
+  margin: 24px 0;
+}
+
+/* Bold titles - ensure they stand out but no gold text (keep it green/dark) */
+[data-v2-root] .markdown-content strong {
+  color: var(--v2-green-900);
+  font-weight: 700;
+}
+
+
+@keyframes scaleIn {
+  from { transform: scale(0); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from { transform: translate(0, 10px); opacity: 0; }
+  to { transform: translate(0, 0); opacity: 1; }
+}
+
+/* Typing Animation */
+@keyframes typingDot {
+  0%, 100% { transform: translateY(0); opacity: 0.6; }
+  50% { transform: translateY(-4px); opacity: 1; }
+}
+
