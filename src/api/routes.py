@@ -88,6 +88,7 @@ async def index_name(request: Request, _ = auth_dependency):
 @router.post("/chat")
 async def chat_stream_handler(
     chat_request: ChatRequest,
+    request: Request,
     chat_client: ChatCompletionsClient = Depends(get_chat_client),
     model_deployment_name: str = Depends(get_chat_model),
     search_index_manager: SearchIndexManager = Depends(get_search_index_namager),
@@ -98,7 +99,32 @@ async def chat_stream_handler(
         "Cache-Control": "no-cache",
         "Connection": "keep-alive",
         "Content-Type": "text/event-stream"
-    }    
+    }
+
+    local_dev_mode = getattr(request.app.state, "local_dev_mode", False)
+
+    async def mock_response_stream():
+        import asyncio
+        user_msg = chat_request.messages[-1].content if chat_request.messages else ""
+        mock_reply = (
+            f"[LOCAL DEV MODE] You said: \"{user_msg}\"\n\n"
+            "This is a mock response. Azure services are not connected. "
+            "Set LOCAL_DEV_MODE=false and configure Azure endpoints to get real AI responses."
+        )
+        # Simulate streaming word by word
+        words = mock_reply.split(" ")
+        accumulated = ""
+        for word in words:
+            chunk = word + " "
+            accumulated += chunk
+            yield serialize_sse_event({"content": chunk, "type": "message"})
+            await asyncio.sleep(0.03)
+        yield serialize_sse_event({"content": accumulated, "type": "completed_message"})
+        yield serialize_sse_event({"type": "stream_end"})
+
+    if local_dev_mode:
+        return StreamingResponse(mock_response_stream(), headers=headers)
+
     if chat_client is None:
         raise Exception("Chat client not initialized")
 

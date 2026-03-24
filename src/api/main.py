@@ -22,6 +22,18 @@ enable_trace = False
 
 @contextlib.asynccontextmanager
 async def lifespan(app: fastapi.FastAPI):
+    local_dev_mode = os.getenv("LOCAL_DEV_MODE", "").lower() == "true"
+
+    if local_dev_mode:
+        logger.info("Running in LOCAL_DEV_MODE — using mock clients, no Azure services required.")
+        app.state.chat = None
+        app.state.search_index_manager = None
+        app.state.chat_model = os.getenv("AZURE_AI_CHAT_DEPLOYMENT_NAME", "mock-model")
+        app.state.local_dev_mode = True
+        yield
+        return
+
+    app.state.local_dev_mode = False
     azure_credential: Union[AzureDeveloperCliCredential, ManagedIdentityCredential]
     if not os.getenv("RUNNING_IN_PRODUCTION"):
         if tenant_id := os.getenv("AZURE_TENANT_ID"):
